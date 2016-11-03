@@ -14,7 +14,7 @@ open this link [http://localhost:8080](http://localhost:8080)
 
 #### or just run without building
 
-    docker run -d  -p "8080:80" cloudgenius/moardockerfile
+    docker run -it  -p "8080:80" cloudgenius/moardockerfile
 
 #### and examine
 
