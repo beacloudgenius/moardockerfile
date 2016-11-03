@@ -8,7 +8,7 @@
 
 #### and examine
 
-    firefox http://localhost:8080
+open this link http://localhost:8080
 
 ## OR if you to tired....
 
@@ -18,4 +18,5 @@
 
 #### and examine
 
-    firefox http://localhost:8080
+open this link http://localhost:8080
+
