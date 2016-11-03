@@ -4,7 +4,7 @@
 
 #### then run
 
-    docker run -d -p "8080:80" moardockerfile
+    docker run -it -p "8080:80" moardockerfile
 
 #### and examine
 
