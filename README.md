@@ -10,6 +10,8 @@
 
     firefox http://localhost:8080
 
+## OR if you to tired....
+
 #### or just run without building
 
     docker run -d  -p "8080:80" cloudgenius/moardockerfile
