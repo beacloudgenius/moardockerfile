@@ -1,8 +1,8 @@
 #### Build
 
-    docker build -t cloudgenius/moar .
+    docker build -t cloudgenius/moardockerfile .
 
 
 #### Run
 
-    docker run -it --rm --name moar  -p "8080:80" cloudgenius/moar
+    docker run -it --rm --name moardockerfile  -p "8080:80" cloudgenius/moardockerfile
